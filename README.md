@@ -18,7 +18,7 @@ This repository contains **GitHub-friendly Markdown notes** with concise explana
 ## 🚀 Usage
 Clone the repo and open the `.md` files directly in your editor or on GitHub:
 ```bash
-git clone https://github.com/your-username/STL-Notes.git
+git clone https://github.com/Guruprasad-18/STL-Notes.git
 ```
 Navigate through the folders and open any topic’s `.md` file to read notes and see code examples together.
 
